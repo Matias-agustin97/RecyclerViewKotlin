@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerCard</string>
+    <string name="card1">This is the first card</string>
+    <string name="card2">This is the first card</string>
+    <string name="card3">This is the first card</string>
+    <string name="card4">This is the first card</string>
+    <string name="card5">This is the first card</string>
+    <string name="card6">This is the first card</string>
+    <string name="card7">This is the first card</string>
+    <string name="card8">This is the first card</string>
+    <string name="card9">This is the first card</string>
+    <string name="card10">This is the first card</string>
+
+</resources>
